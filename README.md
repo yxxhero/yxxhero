@@ -1,5 +1,12 @@
-### Hi there 👋
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px"> yxxhero <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
+![EngincanV's github stats](https://github-readme-stats.vercel.app/api?username=yxxhero&show_icons=true&line_height=30)
+
+🌱 Learning all about **Open Source**
+
+📫 How to reach me: aiopsclub@163.com
+
+💬 Ask me about I will answer!
 <!--
 **yxxhero/yxxhero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
