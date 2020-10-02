@@ -5,13 +5,9 @@
   <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yxxhero&layout=compact&show_icons=true&theme=buefy" />
 </a>
 
-🌱 Learning all about **Open Source**
+🌱 Learning all about **Open Source**    📫 How to reach me: aiopsclub@163.com
 
-📫 How to reach me: aiopsclub@163.com
-
-💬 Ask me about I will answer!
-
-😄 Pronouns: yxxhero
+💬 Ask me about I will answer!           😄 Pronouns: yxxhero
 
 ⚡ Fun fact: Devops CloudNative
 
