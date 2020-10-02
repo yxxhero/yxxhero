@@ -1,5 +1,9 @@
-
-![EngincanV's github stats](https://github-readme-stats.vercel.app/api?username=yxxhero&show_icons=true&line_height=30)
+<a href="https://github.com/yxxhero">
+  <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api?username=yxxhero&show_icons=true&theme=buefy" />
+</a>
+<a href="https://github.com/yxxhero">
+  <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yxxhero&layout=compact&show_icons=true&theme=buefy" />
+</a>
 
 🌱 Learning all about **Open Source**
 
