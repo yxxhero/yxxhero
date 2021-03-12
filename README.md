@@ -27,6 +27,8 @@
 
 ⚡ Fun fact: Devops CloudNative 
 
+🔭 My blog: www.aiopsclub.com
+
 <a href="https://www.aiopsclub.com" target="_blank"><img src="wxqrcode.jpg" alt="devops" height="150" align="center"/></a>
 <!--
 **yxxhero/yxxhero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
