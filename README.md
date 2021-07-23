@@ -25,7 +25,7 @@
 
 😄 Pronouns: yxxhero
 
-⚡ Fun fact: Devops CloudNative commit for helm, miniku, kruise...
+⚡ Fun fact: Devops CloudNative commit for helm, minikube, kruise...
 
 🔭 My blog: www.aiopsclub.com
 
