@@ -1,5 +1,7 @@
 ### Welcome to yxxhero's Homepage 👋
 
+![Metrics](https://metrics.lecoq.io/yxxhero?template=classic&repositories=100&notable=1&notable.repositories=false&config.timezone=Asia%2FShanghai)
+
 <p align="left">
   
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/python.svg" alt="python" style="max-width:100%;">
@@ -10,6 +12,7 @@
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/tools/docker.svg" alt="docker" style="max-width:100%;">
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/react.svg" alt="bash" style="max-width:100%;">
 </p>
+![m](https://metrics.lecoq.io/yxxhero?template=classic&repositories=100&notable=1&notable.repositories=false&config.timezone=Asia%2FShanghai)  
 <a href="https://github.com/yxxhero">
   <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api?username=yxxhero&show_icons=true&theme=buefy" />
 </a>
