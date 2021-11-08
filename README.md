@@ -1,4 +1,6 @@
-### Welcome to yxxhero's Homepage 👋
+### Welcome to yxxhero's Homepage 👋 
+
+#### Number of visitors: ![](https://visitor-badge.glitch.me/badge?page_id=yxxhero.yxxhero)
 
 
 
