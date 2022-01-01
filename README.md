@@ -15,7 +15,7 @@
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/frameworks/react.svg" alt="bash" style="max-width:100%;">
 </p>
 
-![Metrics](https://metrics.lecoq.io/yxxhero?template=classic&repositories=100&notable=1&notable.repositories=false&config.timezone=Asia%2FShanghai)
+![Metrics](https://github.com/yxxhero/yxxhero/blob/master/github-metrics.svg)
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/yxxhero/yxxhero/output/github-contribution-grid-snake.svg)
 
