@@ -3,8 +3,17 @@
 ### If you are interested in me, please feel free to email me:  📫 aiopsclub@163.com
 
 #### Number of visitors: ![](https://visitor-badge.glitch.me/badge?page_id=yxxhero.yxxhero)
+🔭 My blog: www.aiopsclub.com  
 
+🌱 Learning all about **Open Source**    
 
+💬 Ask me about I will answer! 
+
+😄 Pronouns: yxxhero
+
+⚡ Fun fact: Devops CloudNative commit for kubernetes, helm, minikube, kruise...  
+
+<a href="https://www.aiopsclub.com" target="_blank"><img src="wxqrcode.jpg" alt="devops" height="150" align="center"/></a>
 
 <p align="left">
   
@@ -28,17 +37,6 @@
   <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yxxhero&layout=compact&show_icons=true&theme=buefy" />
 </a>
 
-🌱 Learning all about **Open Source**    
-
-💬 Ask me about I will answer! 
-
-😄 Pronouns: yxxhero
-
-⚡ Fun fact: Devops CloudNative commit for kubernetes, helm, minikube, kruise...
-
-🔭 My blog: www.aiopsclub.com
-
-<a href="https://www.aiopsclub.com" target="_blank"><img src="wxqrcode.jpg" alt="devops" height="150" align="center"/></a>
 <!--
 **yxxhero/yxxhero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
