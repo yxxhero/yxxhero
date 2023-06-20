@@ -2,7 +2,6 @@
 
 ### If you are interested in me, please feel free to email me:  📫 aiopsclub@163.com
 
-#### Number of visitors: ![](https://visitor-badge.glitch.me/badge?page_id=yxxhero.yxxhero)
 🔭 My blog: www.aiopsclub.com  
 
 🌱 Learning all about **Open Source**    
