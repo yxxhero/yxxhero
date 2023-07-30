@@ -1,5 +1,9 @@
 ## Welcome to yxxhero's Homepage 👋 
 
+
+![](https://count.getloli.com/get/@yxxhero.github.readme)
+</br>
+
 ### If you are interested in me, please feel free to email me:  📫 aiopsclub@163.com
 
 🔭 My blog: www.aiopsclub.com  
