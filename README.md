@@ -6,8 +6,6 @@
 
 ### If you are interested in me, please feel free to email me:  📫 aiopsclub@163.com
 
-🔭 My blog: www.aiopsclub.com  
-
 🌱 Learning all about **Open Source**    
 
 💬 Ask me about I will answer! 
